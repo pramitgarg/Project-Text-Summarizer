@@ -20,7 +20,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url=f"https://github.com/pramitgarg/Project-Text-Summarizer",
     project_urls={
-        "Bug Tracker": f"https://github.com/pramitgarg/Project-Text-Summarizer-/issues",
+        "Bug Tracker": f"https://github.com/pramitgarg/Project-Text-Summarizer/issues",
     },
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src")
